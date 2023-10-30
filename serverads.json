@@ -1,0 +1,58 @@
+{
+	"version": "v1.1",
+
+
+"admobrunads":"false",
+"admobbannerId": "ca-app-pub-3940256099942544/6300978111",
+"admobInterId": "ca-app-pub-3940256099942544/1033173712",
+"admobReward": "ca-app-pub-3940256099942544/5224354917",
+"admobNative": "ca-app-pub-3940256099942544/2247696110",
+
+"ApplovingRunAds":"true",
+"ApplovingSdkKey": "vbBpL97l7ZbnglDkPemgweiHXkZfM4kTmVRu_N2xzv2c0cpq2eVM5JLUsV4g5JcRSpnHttsEnylSBGHUTSEGX7",
+"Applovingbanner": "banner",
+"Applovinginterstitial": "0ea6abbd57c272d8",
+"Applovingreward": "eed5f60c98742c2c",
+
+"unityRunAds":"false",
+"unityAppID": "4390175",
+"unitybanner": "Banner_Android",
+"unityinterstitial": "Interstitial_Android",
+"unityreward": "Rewarded_Android",
+
+"facebookRunAds":"false",
+"facebookbanner": "IMG_16_9_APP_INSTALL#555001111669630_630650440771363",
+"facebookinterstitial": "IMG_16_9_APP_INSTALL#555001111669630_630673724102368",
+"facebookreward": "IMG_16_9_APP_INSTALL#555001111669630_630539314115809",
+
+"ironrunads":"false",
+
+"ironsourceId": "40256099942544/6300978111",
+"ironbanner": "978111",
+"ironInter": "73712",
+"ironReward": "224354917",
+
+
+"HasApplicationURL":"true",
+
+"ApplicationURL": "https://play.google.com/store/apps/details?id=com.tiltingpoint.sbadventures",
+"ApplicationImageURL": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/07df4267234961.5b327e7325ad9.png",
+
+"HasApplicationURL2":"true",
+
+"ApplicationURL2": "https://play.google.com/store/apps/eventdetails/4829982215448228761",
+"ApplicationImageURL2": "https://play-lh.googleusercontent.com/D_KblLmWmgxRo07tVpTVj1ysGhJuJ3n5Rv_FC6xO5h3E9Pwmv6v7x6kYWztqX9VsAklR",
+
+
+"adscounter": "2"
+
+
+
+
+
+
+
+
+
+
+}
